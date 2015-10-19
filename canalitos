@@ -1,0 +1,32 @@
+#EXTM3U tvg-shift=3
+
+#EXTINF:0,group-title="DEPORTES",[COLOR yellow][B]+++LISTA BY MARIOCS+++[/B][/COLOR]
+http://?
+
+#EXTINF:0,[COLOR red][B]----------DEPORTES-------[/B][/COLOR]
+http://?
+
+#EXTINF:-1,ESPN HD
+http://wcm777.la/tp.php?canal=516&m=mariocs.m3u8
+
+#EXTINF:-1,ESPN
+http://wcm777.la/tp.php?canal=558&m=mariocs.m3u8
+
+
+#EXTINF:-1,ESPN 2
+http://wcm777.la/tp.php?canal=561&m=mariocs.m3u8
+
+#EXTINF:-1,ESPN 3
+http://wcm777.la/tp.php?canal=520&m=mariocs.m3u8
+
+#EXTINF:-1,Fox Sports
+http://wcm777.la/tp.php?canal=522&m=mariocs.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://wcm777.la/tp.php?canal=527&m=mariocs.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://wcm777.la/mariocs.php?canal=FoxSports3SD&id=3806
+
+#EXTINF:-1,Bein Ñ Sports
+http://wcm777.la/mariocs.php?canal=BeinSportsLA&cm=2527&f=mariocs.m3u8
